@@ -1,0 +1,137 @@
+{
+status: "success",
+movies: [
+{
+title: "John Wick 4 &#8211; Baba Yaga",
+permalink: "https://assistirmegafilmeshd.com/movies/assistir-john-wick-4-baba-yaga/",
+category: "01 - Lançamentos, Ação, Crime, Thriller",
+imdb: "tt10366206",
+poster: "https://image.tmdb.org/t/p/w300/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/h8gHn0OzBoaefsYseUByqsmEDMY.jpg",
+imdbRating: "9.3",
+year: "2023",
+runtime: "2h, 49min"
+},
+{
+title: "Creed III",
+permalink: "https://assistirmegafilmeshd.com/movies/assistir-creed-iii/",
+category: "01 - Lançamentos, Drama",
+imdb: "tt11145118",
+poster: "https://image.tmdb.org/t/p/w300/fa23RPI5UmXqCUICdEFS8uFjUda.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/5i6SjyDbDWqyun8klUuCxrlFbyw.jpg",
+imdbRating: "7.3",
+year: "2023",
+runtime: "1h, 56min"
+},
+{
+title: "Homem-Formiga e a Vespa &#8211; Quantumania",
+permalink: "https://assistirmegafilmeshd.com/movies/assistir-homem-formiga-e-a-vespa-quantumania/",
+category: "01 - Lançamentos, Aventura, Comédia, Ficção científica",
+imdb: "tt10954600",
+poster: "https://image.tmdb.org/t/p/w300/3aJNiESDK7quCw9IpsUCFXqvq24.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/8YFL5QQVPy3AgrEQxNYVSgiPEbe.jpg",
+imdbRating: "6.8",
+year: "2023",
+runtime: "2h, 5min"
+},
+{
+title: "Procura-se Gonker",
+permalink: "https://assistirmegafilmeshd.com/movies/assistir-procura-se-gonker/",
+category: "01 - Lançamentos, Aventura, Drama, Família",
+imdb: "tt15334430",
+poster: "https://image.tmdb.org/t/p/w300/ziAL5224J9QHA0S0exarpkz4eUN.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/cJFNCdlWpmLTzHRqbmmOzKjXAjG.jpg",
+imdbRating: "4.9",
+year: "2023",
+runtime: "1h, 35min"
+},
+{
+title: "Avatar 2 &#8211; O Caminho da Água",
+permalink: "https://assistirmegafilmeshd.com/movies/55-assistir-avatar-2-o-caminho-da-agua/",
+category: "01 - Lançamentos, Ação, Aventura, Ficção científica",
+imdb: "tt1630029",
+poster: "https://image.tmdb.org/t/p/w300/tnmdUnztAYbfJ0jhjpN6oxwP2sb.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/198vrF8k7mfQ4FjDJsBmdQcaiyq.jpg",
+imdbRating: "8.2",
+year: "2022",
+runtime: "3h, 12min"
+},
+{
+title: "Gato de Botas 2 &#8211; O Último Pedido",
+permalink: "https://assistirmegafilmeshd.com/movies/assistir-gato-de-botas-2-o-ultimo-pedido/",
+category: "01 - Lançamentos, Ação, Animação, Aventura, Comédia, Família, Fantasia",
+imdb: "tt3915174",
+poster: "https://image.tmdb.org/t/p/w300/65NBNqJiaHeCmqDqkCmrRplJXw.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/r9PkFnRUIthgBp2JZZzD380MWZy.jpg",
+imdbRating: "7.8",
+year: "2022",
+runtime: "1h, 43min"
+},
+{
+title: "O Troll da Montanha",
+permalink: "https://assistirmegafilmeshd.com/movies/50-assistir-o-troll-da-montanha/",
+category: "01 - Lançamentos, Ação, Aventura, Fantasia",
+imdb: "tt11116912",
+poster: "https://image.tmdb.org/t/p/w300/tyv3iU87q5IdTAUVLWJeILJ4Cyf.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/53BC9F2tpZnsGno2cLhzvGprDYS.jpg",
+imdbRating: "5.9",
+year: "2022",
+runtime: "1h, 43min"
+},
+{
+title: "Um Natal Cheio de Graça",
+permalink: "https://assistirmegafilmeshd.com/movies/50-assistir-um-natal-cheio-de-graca/",
+category: "01 - Lançamentos, Comédia, Romance",
+imdb: "tt23556786",
+poster: "https://image.tmdb.org/t/p/w300/8TDwAtynfhER7CXb7J61l4SyTCV.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/wvIV32bGg6HC4dOCyXIHk9q4Lgt.jpg",
+imdbRating: "4.6",
+year: "2022",
+runtime: "1h, 44min"
+},
+{
+title: "Guardiões da Galáxia &#8211; Especial de Festas",
+permalink: "https://assistirmegafilmeshd.com/movies/50-assistir-guardioes-da-galaxia-especial-de-festas/",
+category: "01 - Lançamentos, Aventura, Comédia, Ficção científica",
+imdb: "tt13623136",
+poster: "https://image.tmdb.org/t/p/w300/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/rfnmMYuZ6EKOBvQLp2wqP21v7sI.jpg",
+imdbRating: "8.3",
+year: "2022",
+runtime: "0h, 45min"
+},
+{
+title: "Glass Onion &#8211; Um Mistério Knives Out",
+permalink: "https://assistirmegafilmeshd.com/movies/glass-onion-um-misterio-knives-out/",
+category: "01 - Lançamentos, Comédia, Mistério, Thriller",
+imdb: "tt11564570",
+poster: "https://image.tmdb.org/t/p/w300/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/dKqa850uvbNSCaQCV4Im1XlzEtQ.jpg",
+imdbRating: "7.4",
+year: "2022",
+runtime: "2h, 20min"
+},
+{
+title: "Pantera Negra 2 &#8211; Wakanda para Sempre",
+permalink: "https://assistirmegafilmeshd.com/movies/53-assistir-pantera-negra-2-wakanda-para-sempre/",
+category: "01 - Lançamentos, Ação, Aventura, Ficção científica",
+imdb: "tt9114286",
+poster: "https://image.tmdb.org/t/p/w300/6tb0qiqLN9szHPA4i0kY38oaWew.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/8sMmAmN2x7mBiNKEX2o0aOTozEB.jpg",
+imdbRating: "7.3",
+year: "2022",
+runtime: "2h, 42min"
+},
+{
+title: "Enola Holmes 2",
+permalink: "https://assistirmegafilmeshd.com/movies/50-assistir-enola-holmes-2/",
+category: "01 - Lançamentos, Aventura, Crime, Mistério",
+imdb: "tt14641788",
+poster: "https://image.tmdb.org/t/p/w300/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg",
+backdrop: "https://image.tmdb.org/t/p/original/zzoFeH4PsV5Mh2Sc47JOMFwGYOX.jpg",
+imdbRating: "6.8",
+year: "2022",
+runtime: "2h, 8min"
+}
+]
+}
